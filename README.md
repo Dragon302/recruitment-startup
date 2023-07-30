@@ -1,2 +1,2 @@
 # recruitment-startup
-web development project for recruitment startup
+ This is a  home page for a recruitment startup. This portal will be used by companies in India and worldwide for Hiring software engineers, Product Managers, Data Scientist etc. 
